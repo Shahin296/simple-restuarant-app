@@ -1,0 +1,42 @@
+.navbar-logo-img{
+    width: 100px;
+}
+.sign-up-link{
+    background-color: #fd3737;
+    color: #fff !important;
+    border-radius: 15px;
+    width: 80px;
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+}
+
+.nav-link{
+    margin-right: 10px;
+}
+
+.header-content{
+    position: relative;
+}
+.image-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.search-bar{
+    margin-top: 20px;
+ 
+}
+.search-bar input, .btn-outline-success{
+    border-radius: 20px;
+}
+#header-section{
+    padding-bottom: 50px;
+}
+.search-bar .btn-outline-success{
+    background-color: #fc3030;
+    color: #fff;
+    border: none;
+}
+

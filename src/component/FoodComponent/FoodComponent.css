@@ -1,0 +1,11 @@
+.card{
+    border: none;
+    text-align: center;
+    margin: 10px;
+}
+.card img{
+    margin: 0 auto;
+}
+.card-name{
+    color: #999999;
+}

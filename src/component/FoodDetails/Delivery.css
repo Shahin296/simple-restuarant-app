@@ -1,0 +1,27 @@
+.delivery-section{
+    padding: 50px 0;
+}
+.delivery-form-control{
+    margin: 10px 0;
+    background-color: #fcfbfb;
+}
+.delivery-form-control:focus{
+    background-color: #fcfbfb;
+}
+.form-control-bg{
+    background-color: #fd3434;
+    color: #fff;
+}
+.form-control-bg:focus{
+    background-color: #e43e3e;
+}
+
+.changingBtnDeliver{
+    border: none;
+    font-size: 20px;
+}
+.foodCard {
+    background-color: #e0dede;
+    padding: 10px;
+    border-radius: 5px;
+}
